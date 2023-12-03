@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <parameter name="childTestSite" value="23e232"/>
+  <test name="Test">
+    <parameter name="childTestSite" value="23e232"/>
+    <classes>
+      <class name="testScripts.TS_001_NEW_USER_FOR_REGISTRATION_TEST"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Failed suite [Suite] -->

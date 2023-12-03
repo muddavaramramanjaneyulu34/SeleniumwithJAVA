@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-03T07:31:00Z" name="Suite" finished-at="2023-12-03T07:33:23Z" duration-ms="143119">
+    <groups>
+    </groups>
+    <test started-at="2023-12-03T07:31:00Z" name="Test" finished-at="2023-12-03T07:33:23Z" duration-ms="143119">
+      <class name="testScripts.TS_001_NEW_USER_FOR_REGISTRATION_TEST">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testScripts.TS_001_NEW_USER_FOR_REGISTRATION_TEST@223f3642]" started-at="2023-12-03T13:01:00Z" name="setUp" finished-at="2023-12-03T13:01:00Z" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCase()[pri:0, instance:testScripts.TS_001_NEW_USER_FOR_REGISTRATION_TEST@223f3642]" started-at="2023-12-03T13:01:00Z" name="testCase" finished-at="2023-12-03T13:03:23Z" duration-ms="143094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testScripts.TS_001_NEW_USER_FOR_REGISTRATION_TEST@223f3642]" started-at="2023-12-03T13:03:23Z" name="tearDown" finished-at="2023-12-03T13:03:23Z" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testScripts.TS_001_NEW_USER_FOR_REGISTRATION_TEST -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
